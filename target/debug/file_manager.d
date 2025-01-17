@@ -1,0 +1,1 @@
+/Users/victor-stefanconstantin/Documents/Proiecte\ GitHub/file-manager-rust/file_manager/target/debug/file_manager: /Users/victor-stefanconstantin/Documents/Proiecte\ GitHub/file-manager-rust/file_manager/src/main.rs
